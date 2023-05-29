@@ -31,5 +31,8 @@ Moje wcześniejsza i aktualna praca nauczyła mnie cierpliwości oraz wytrwało�
 * DevTools(podstawy)
 
 # Kursy
-#
+* [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
+* [Zakotwiczony tekst](https://remigiuszbednarczyk.pl)
+* [Zakotwiczony tekst](https://remigiuszbednarczyk.pl)
+* [Zakotwiczony tekst](https://remigiuszbednarczyk.pl)
 

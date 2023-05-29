@@ -1,6 +1,5 @@
 # Krzysztof Rutkowski
 
-# O mnie!
 
 
 # Doświadcznie
@@ -32,7 +31,7 @@ Moje wcześniejsza i aktualna praca nauczyła mnie cierpliwości oraz wytrwało�
 
 # Kursy
 * [Praktyczny kurs testowania oprogramowania](https://www.udemy.com/course/praktyczny-kurs-testowania-oprogramowania/)
-* [Zakotwiczony tekst](https://remigiuszbednarczyk.pl)
-* [Zakotwiczony tekst](https://remigiuszbednarczyk.pl)
-* [Zakotwiczony tekst](https://remigiuszbednarczyk.pl)
+* [Podstawy manualnego testowania oprogramowania](https://www.udemy.com/course/kurs-testowania-oprogramowania/)
+* [Postman - testowanie REST API](https://www.udemy.com/course/kurs-postman/)
+* [Automatyzacja testów: Selenium WebDriver Java od podstaw]`(https://www.udemy.com/course/automatyzacja-testow-selenium-webdriver-java-od-podstaw/)
 

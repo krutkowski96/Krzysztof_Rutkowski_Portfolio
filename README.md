@@ -1,5 +1,3 @@
-# Krzysztof Rutkowski
-
 
 
 # Doświadcznie

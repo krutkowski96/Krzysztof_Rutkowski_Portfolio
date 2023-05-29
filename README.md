@@ -17,18 +17,18 @@ Bardzo ważnym dla mnie aspektem w pracy jest nastrój oraz komunikacja. Jestem 
 Moje wcześniejsza i aktualna praca nauczyła mnie cierpliwości oraz wytrwałości w wykonywaniu montonnych zadań.
 
 # Umiejętności testerskie
-*Pisanie przypadków testowych
-*Pisanie scenariuszy testowych
-*Raportowanie błedów
-*Podstawowa obsługa Postman(w trakcie)
-*Sellenium WebDriver(w trakcie)
+* Pisanie przypadków testowych
+* Pisanie scenariuszy testowych
+* Raportowanie błedów
+* Podstawowa obsługa Postman(w trakcie)
+* Sellenium WebDriver(w trakcie)
 
 # Narzędzia
-*Jira z zephyr(podstawy)
-*Postman(podstawy)
-*Github
-*Visual Studio Code(podstawy)
-*DevTools(podstawy)
+* Jira z zephyr(podstawy)
+* Postman(podstawy)
+* Github
+* Visual Studio Code(podstawy)
+* DevTools(podstawy)
 
 # Kursy
 #

@@ -1,1 +1,2 @@
-# Krzysztof_Rutkowski_Portfolio
+# Krzysztof Rutkowski
+inżynier informatyki
